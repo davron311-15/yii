@@ -1,0 +1,3 @@
+# yii
+yii
+echo "salom";
